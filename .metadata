@@ -1,0 +1,5 @@
+version:
+  revision: b85763230658c2eea18f541715deb068fabc0b7b
+  channel: master
+
+project_type: app
